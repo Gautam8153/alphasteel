@@ -1,2 +1,0 @@
-# alphasteel
-Static site
